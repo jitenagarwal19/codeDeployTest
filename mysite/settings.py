@@ -25,7 +25,7 @@ SECRET_KEY = 'f623r81+y5$a9v--+!s8*-@no2i-cbt&f%ma78*8d1y76z6hig'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [".djangofreshfuckingstart-dev.ap-south-1.elasticbeanstalk.com", "www.djangofreshfuckingstart-dev.ap-south-1.elasticbeanstalk.com"]
 
 
 # Application definition
